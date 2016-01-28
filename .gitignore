@@ -58,3 +58,6 @@ target/
 
 # Repo scratch directory
 scratch/
+.recommenders
+.DS_Store
+.metadata
